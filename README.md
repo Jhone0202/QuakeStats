@@ -1,15 +1,39 @@
 # software_engineer_test
 
-A new Flutter project.
+A new Flutter project for Software Engineer test from CloudWalk.
+
+## Description
+
+The test consists of developing a project to analyze the Quake 3 Arena log file.
+
+The project should implement the following functionalities:
+
+- Read the log file
+- Group the game data of each match
+- Collect kill data
+
+
+For more test details, go to the repository:
+
+- [Cloudwalk test](https://gist.github.com/704a555a0fe475ae0284ad9088e203f1.git)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter SDK 2.0.2 or higher
+* Android or iOs device
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Executing project
+
+* How to run the app
+```
+1. run "pub get" to get dependencies
+
+2. run "flutter run" to init
+```
+
+## Help
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
