@@ -24,6 +24,11 @@ For more test details, go to the repository:
 * Flutter SDK 2.0.2 or higher
 * Android or iOs device
 
+### Executing tests
+
+To run the tests, run in terminar 
+"flutter test test\modules\home\repositories\read_log_repository_test.dart";
+
 ### Executing project
 
 * How to run the app
